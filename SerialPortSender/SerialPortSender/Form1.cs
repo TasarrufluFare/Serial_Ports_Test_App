@@ -81,6 +81,7 @@ namespace SerialPortSender
         int tur_sayisi = 0;
         private void timer1_Tick(object sender, EventArgs e)
         {
+            byte tur_siniri = Convert.ToByte(textBox7.Text);
             if (tur_sayisi == 0 && i == 0)
             {
                 datatosend = $"NewDataSet:1,MotorKonumu1:ABC,MotorKonumu2:ABC2,MotorKonumu3:ABC3,Sürat:{surat[i].ToString()},İvme:{ivme[i].ToString()},Basınç:10,Yükseklik:700,Sıcaklık:70";
@@ -96,7 +97,7 @@ namespace SerialPortSender
                 i = 0;
                 tur_sayisi++;
             }
-            if (tur_sayisi==8)
+            if (tur_sayisi==tur_siniri)
             {
                 timer1.Stop();
                 MessageBox.Show("Tüm veriler gönderildi.");

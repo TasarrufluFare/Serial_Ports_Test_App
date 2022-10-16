@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzFTk8A50QyvFfdRWX0mAyR4JaSpGdiutbv5DpErGvce0MwZpw+O/5MlG6Adzl9Q/Cpbux9BCSNWy6RBT5E9oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nezih\\source\\repos\\SerialPortSender\\SerialPortSender\\SerialPortSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nezih\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
